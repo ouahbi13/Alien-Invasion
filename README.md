@@ -1,5 +1,6 @@
 # Alien-Invasion
 A beginner game project using pygame module .
+
 For this project, i was guided by the book "Python Crash Course, 2nd Edition A Hands-On, Project-Based Introduction to Programming" by Eric Matthes .
 
 
