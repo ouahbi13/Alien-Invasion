@@ -28,18 +28,26 @@ Game assets: (Don't forget to download them)
   
   Sound Effects:
   
-  Alien-Bullet Collision : https://www.youtube.com/watch?v=FsLkXXOyeRI&ab_channel=SFX
+    Alien-Bullet Collision : https://www.youtube.com/watch?v=FsLkXXOyeRI&ab_channel=SFX
   
-  Ship-Alien Collision : https://www.youtube.com/watch?v=bkAANiXiTJs&ab_channel=Seaguli 
-      Game Over sound effect : https://www.youtube.com/watch?v=bug1b0fQS8Y&ab_channel=SeaguliSeaguli
+    Ship-Alien Collision : https://www.youtube.com/watch?v=bkAANiXiTJs&ab_channel=Seaguli 
+    
+    Game Over sound effect : https://www.youtube.com/watch?v=bug1b0fQS8Y&ab_channel=SeaguliSeaguli
+  
   Images:
-      Ship and Alien Image : https://st8.cannypic.com/thumbs/42/425227_632_canny_pic.jpg
-      Background Image : https://robhimself.com/resources/invaders/starfield.png
+  
+     Ship and Alien Image : https://st8.cannypic.com/thumbs/42/425227_632_canny_pic.jpg
+    
+     Background Image : https://robhimself.com/resources/invaders/starfield.png
   
  P.S:
+    
     *** You can cut the image of your choosing, then you have to remove the background using this website : https://www.remove.bg/ ***
+    
     *** Pay attention to files names ***
+    
     *** Don't forget to create a text file to save highscore ***
+    
     *** Create a folder for images, and another for audio effects"
     
 Enjoy !
