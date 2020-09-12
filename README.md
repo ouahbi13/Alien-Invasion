@@ -51,7 +51,7 @@ Game assets: (Don't forget to download them)
     
     *** Create a folder for images, and another for audio effects"
 
-![alt text](https://github.com/3y3man3/Alien Invasion/blob/master/game_pic.png?raw=true)
+![alt text](https://github.com/3y3man3/Alien-Invasion/blob/master/game_pic.png?raw=true)
 
 
 Enjoy !
