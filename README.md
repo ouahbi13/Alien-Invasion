@@ -51,4 +51,7 @@ Game assets: (Don't forget to download them)
     
     *** Create a folder for images, and another for audio effects"
     
+![GitHub Logo](C:\Users\User\Desktop\game_pic.png)
+Format: ![Alt Text](url)
+
 Enjoy !
