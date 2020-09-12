@@ -50,8 +50,6 @@ Game assets: (Don't forget to download them)
     *** Don't forget to create a text file to save highscore ***
     
     *** Create a folder for images, and another for audio effects"
-    
-![GitHub Logo](C:\Users\User\Desktop\game_pic.png)
-Format: ![Alt Text](url)
+
 
 Enjoy !
