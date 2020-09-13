@@ -11,7 +11,7 @@ Game Rules:
   * You lose one life if you break the last two rules .
   * In every level the speed of the aliens, the ship , the bullets increases .
  
-Game assets: (Don't forget to download them)
+Game assets: (Don't forget to download them from the repository)
   
   Background Music:
   
